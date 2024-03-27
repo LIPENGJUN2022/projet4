@@ -85,7 +85,7 @@ It provides a graph to visualize the objective fulfilled over time.
 
 ## 6 - Hotjar and Home-made process alternatives
 
-### 6.1<span style="color:red" >Home-made tool</span> alternatives
+### 6.1 <span style="color:red" >Home-made tool</span> alternatives
 
 ____________________
 
