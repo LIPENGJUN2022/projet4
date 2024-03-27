@@ -1,15 +1,13 @@
 # Project 4
 
 
-- [1. 第一节标题](#1-Introduction)
-- [2. 第二节标题](#2-第二节标题)
-- [3. 第三节标题](#3-第三节标题)
-- [1. 第一节标题](#1-第一节标题)
-- [2. 第二节标题](#2-第二节标题)
-- [3. 第三节标题](#3-第三节标题)
-- [1. 第一节标题](#1-第一节标题)
-- [2. 第二节标题](#2-第二节标题)
-- [3. 第三节标题](#3-第三节标题)
+- [1 - Introduction](#1---introduction)
+- [2 - Matomo implementation](#2---matomo-implementation)
+- [3 - How to add widgets to the dashboard?](#3---how-to-add-widgets-to-the-dashboard)
+- [4 - How to create a dashboard for each tracked page?](#4---how-to-create-a-dashboard-for-each-tracked-page)
+- [5 - Free tools descriptions](#5---free-tools-descriptions)
+- [6 - Hotjar and Home-made process alternatives](#6---hotjar-and-home-made-process-alternatives)
+- [7 - Reference](#7---reference)
 
 ## 1 - Introduction 
 
