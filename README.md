@@ -123,7 +123,7 @@ __________________________________
 
 
 ### 6.2 <span style="color:green">Hotjar</span>  alternatives
-
+$${\color{red}Hotjar}$$
 _________________________
 
 
