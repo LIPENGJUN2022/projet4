@@ -1,6 +1,10 @@
-### Project 4
+# Project 4
+
+
 [toc]
-#### 1 - Introduction 
+
+
+## 1 - Introduction 
 
 This document summarizes how to use the Matomo analytics platform. 
 
@@ -8,7 +12,7 @@ The database used to store visitor’s data was created with the DataBase Manage
 
 For reasons of confidentiality, identifiers and passwords to access the matomo page with the data on the visits of mosaic pages are not provided in this document. **(conserver ou mettre les identifiants et mdp ?)**
 
-#### 2 - Matomo implementation
+## 2 - Matomo implementation
 
  
 
@@ -33,25 +37,25 @@ To implement matomo, insert the following JavaScript code (tracking code) in the
 <!-- End Matomo Code -->
 ~~~~
 
-#### 3 - How to add widgets to the dashboard?
+## 3 - How to add widgets to the dashboard?
 
 *Dashboard* → *Dashboard* (down arrow) → *Select the widget of interest*
 
-#### 4 - How to create a dashboard for each tracked page? 
+## 4 - How to create a dashboard for each tracked page? 
 
 *All visits* (top tab) → *add new segment → Actions In Visit → Behaviour → Page URL → Is → Value* : select the url corresponding to the page of interest → *Save & Apply* (after giving a name for the new dashboard)
 
-#### 5 - Free tools description
+## 5 - Free tools description
 
-##### 5.1 Visitors
+### 5.1 Visitors
 
 It presents insights through graphs, a map and tables about the **number of visits** in addition to insights about **visitors** such as their IP, their locations, the operating system used, the average duration of their visits, etc. The period can be modified and the visitors can be tracked in real time. 
 
-##### 5.2 Behaviour
+### 5.2 Behaviour
 
 It presents tables containing **statistics about tracked pages** (views, first or last seen by the visitors) and visitor actions (search keywords used, the downloaded contents …). Furthermore, it is possible to **define events to measure specific user interactions** **with the pages** and know whether visits correspond to **new ones or returning visits** through the *Events* and *Engagement* tabs. 
 
-##### 5.3 Acquisition
+### 5.3 Acquisition
 
 It presents **channels that lead visitors to the websites**. The different channel types are the following:
 
@@ -63,7 +67,7 @@ It presents **channels that lead visitors to the websites**. The different chann
 
 Moreover, a graph to visualize the different channel types used over time is provided. 
 
-##### 5.4 Goals
+### 5.4 Goals
 
 It allows the user to **define objectives** based on:
 
@@ -74,9 +78,9 @@ It allows the user to **define objectives** based on:
 
 It provides a graph to visualize the objective fulfilled over time. 
 
-#### 6 - Hotjar and Home-made process alternatives
+## 6 - Hotjar and Home-made process alternatives
 
-##### 6.1<span style="color:red" >Home-made tool</span> alternatives
+### 6.1<span style="color:red" >Home-made tool</span> alternatives
 
 ____________________
 
@@ -112,7 +116,7 @@ __________________________________
 
 
 
-##### 6.2 <span style="color:green">Hotjar</span>  alternatives
+### 6.2 <span style="color:green">Hotjar</span>  alternatives
 
 _________________________
 
@@ -200,6 +204,6 @@ ___________________
 
 
 
-#### 7 - Reference
+## 7 - Reference
 
 [1]- Matomo: a powerful web analysis platform that gives you ownership of 100% of the data. https://fr.matomo.org/, 2018 (accessed June 13, 2023).
