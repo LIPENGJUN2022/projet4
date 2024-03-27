@@ -87,7 +87,7 @@ It provides a graph to visualize the objective fulfilled over time.
 
 ### 6.1 Home-made process alternatives
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Home-made tools`
+- ![#ea9898](https://placehold.co/15x15/f03c15/f03c15.png) `Home-made tools`
 ____________________
 
 
