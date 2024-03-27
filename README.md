@@ -87,7 +87,7 @@ It provides a graph to visualize the objective fulfilled over time.
 
 ### 6.1 Home-made process alternatives
 
-- ![#ea9898](https://placehold.co/15x15/f03c15/f03c15.png) `Home-made tools`
+- ![#ea9898](https://placehold.co/15x15/ea9898/ea9898.png) `Home-made tools`
 ____________________
 
 
@@ -124,7 +124,7 @@ __________________________________
 
 ### 6.2 <span style="color:green">Hotjar</span>  alternatives
 
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Hotjar tools`
+- ![#93c47d](https://placehold.co/15x15/93c47d/93c47d.png) `Hotjar tools`
 _________________________
 
 
