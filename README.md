@@ -111,7 +111,7 @@ ________________________
 
 
 
-![image-20240327171030343](./Project 4.assets/image-20240327171030343.png)
+<img src="./Project 4.assets/image-20240327171030343.png" alt="image-20240327171030343">
 
 Visitors → Visits Log
 
