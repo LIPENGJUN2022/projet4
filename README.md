@@ -83,11 +83,11 @@ It allows the user to **define objectives** based on:
 
 It provides a graph to visualize the objective fulfilled over time. 
 
-## 6 - Hotjar and Home-made process alternatives
+## 6 - Home-made process and Hotjar alternatives
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Home-made`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Hotjar`
+### 6.1 Home-made process alternatives
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Home-made tools`
 ____________________
 
 
@@ -123,7 +123,8 @@ __________________________________
 
 
 ### 6.2 <span style="color:green">Hotjar</span>  alternatives
-$${\color{red}Hotjar}$$
+
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Hotjar tools`
 _________________________
 
 
