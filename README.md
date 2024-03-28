@@ -189,7 +189,7 @@ _____________
 
 
 
-<img src="./Project 4.assets/image-20240327171304121.png" alt="image-20240327171304121" style="zoom:67%;" />
+<img src="./Project 4.assets/PixPin_2024-03-28_13-58-16.png" alt="image-20240327171304121" style="zoom:67%;" />
 
 → Session Recordings (paying service)
 
