@@ -6,7 +6,7 @@
 - [3 - How to add widgets to the dashboard?](#3---how-to-add-widgets-to-the-dashboard)
 - [4 - How to create a dashboard for each tracked page?](#4---how-to-create-a-dashboard-for-each-tracked-page)
 - [5 - Free tools descriptions](#5---free-tools-descriptions)
-- [6 - Hotjar and Home-made process alternatives](#6---hotjar-and-home-made-process-alternatives)
+- [6 - Home-made process and Hotjar alternatives](#6---Home-made-process-and-Hotjar-alternatives)
 - [7 - Reference](#7---reference)
 
 ## 1 - Introduction 
@@ -50,7 +50,7 @@ To implement matomo, insert the following JavaScript code (tracking code) in the
 
 *All visits* (top tab) → *add new segment → Actions In Visit → Behaviour → Page URL → Is → Value* : select the url corresponding to the page of interest → *Save & Apply* (after giving a name for the new dashboard)
 
-## 5 - Free tools description
+## 5 - Free tools descriptions
 
 ### 5.1 Visitors
 
