@@ -54,7 +54,7 @@ To implement matomo, insert the following JavaScript code (tracking code) in the
 
 ### 5.1 Visitors
 
-It presents insights through graphs, a map and tables about the **number of visits** in addition to insights about **visitors** such as their IP, their locations, the operating system used, the average duration of their visits, etc. The period can be modified and the visitors can be tracked in real time. 
+It presents insights through graphs, a map and tables about the **number of visits** in addition to insights about **visitors** such as their IPs, their locations, the operating systems used, the average duration of their visits, etc. The period can be modified and visitors can be tracked in real time. 
 
 ### 5.2 Behaviour
 
