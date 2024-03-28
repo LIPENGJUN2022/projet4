@@ -21,7 +21,7 @@ For reasons of confidentiality, identifiers and passwords to access the matomo p
 
  
 
-To implement matomo, insert the following JavaScript code (tracking code) in the <head> tags of the html code corresponding to pages that you want to track:
+To implement matomo, insert the following JavaScript code (tracking code) in the head tags of the html code corresponding to pages that you want to track:
 
 ~~~~javascript
 <!-- Matomo -->
