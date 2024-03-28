@@ -67,7 +67,7 @@ It presents **channels that lead visitors to the websites**. The different chann
 - Direct Entry: visitors have directly entered the web page URL in web browsers. 
 
 - Search Engines: visitors were referred to the web page through searching in the web browser (insights about the web browsers and the key words used).
-- Websites: visitors were redirected by a link leading to the web page of interest (insights about the sites or the social media that refer to the tracked page).
+- Websites: visitors were redirected by a link leading to the web page of interest (insights about the sites, the social media that refer to the tracked page).
 - Marketing campaign: visitors were redirected to the web page through e-mails or advertisements…
 
 Moreover, a graph to visualize the different channel types used over time is provided. 
