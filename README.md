@@ -76,7 +76,7 @@ Moreover, a graph to visualize the different channel types used over time is pro
 
 It allows the user to **define objectives** based on:
 
-- visits (the page can be specified with an url or the page title)
+- visits (the page can be specified with a URL or the page title)
 - downloads 
 - links redirecting to another web site
 - time spent on a page
