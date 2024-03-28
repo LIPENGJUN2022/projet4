@@ -15,7 +15,7 @@ This document summarizes how to use the Matomo analytics platform.
 
 The database used to store visitor’s data was created with the DataBase Management System MariaDB. The tracked mosaic pages are the following: bioacc, growth, ssd-faq, guts-predict, tkdb. 
 
-For reasons of confidentiality, identifiers and passwords to access the matomo page with the data on the visits of mosaic pages are not provided in this document. **(conserver ou mettre les identifiants et mdp ?)**
+For reasons of confidentiality, identifiers and passwords to access the matomo page with the data on the visits of mosaic pages are not provided in this document. Nevertheless, they can be requested by sending a mail to mosaic@univ-lyon1.fr.
 
 ## 2 - Matomo implementation
 
