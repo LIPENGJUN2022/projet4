@@ -11,7 +11,7 @@
 
 ## 1 - Introduction 
 
-This document summarizes how to use the Matomo analytics platform. 
+This document takes place in the context of matomo implementation to track the mosaic web pages and replace the home-made process and Hotjar. It summarizes how to use the Matomo analytics platform and proposes alternative indicators that are similar to those used both in the home-made tool and with Hotjar.
 
 The database used to store visitor’s data was created with the DataBase Management System MariaDB. The tracked mosaic pages are the following: bioacc, growth, ssd-faq, guts-predict, tkdb. 
 
