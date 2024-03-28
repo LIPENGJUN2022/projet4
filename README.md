@@ -58,7 +58,7 @@ It presents insights through graphs, a map and tables about the **number of visi
 
 ### 5.2 Behaviour
 
-It presents tables containing **statistics about tracked pages** (views, first or last seen by the visitors) and visitor actions (search keywords used, the downloaded contents …). Furthermore, it is possible to **define events to measure specific user interactions** **with the pages** and know whether visits correspond to **new ones or returning visits** through the *Events* and *Engagement* tabs. 
+It presents tables containing **statistics about tracked pages** (views, first or last seen by the visitors) and visitor actions (search keywords used, the downloaded contents…). Furthermore, it is possible to **define events to measure specific user interactions** **with the pages** and know whether visits correspond to **new ones or returning visits** through the *Events* and *Engagement* tabs. 
 
 ### 5.3 Acquisition
 
