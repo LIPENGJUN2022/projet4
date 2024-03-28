@@ -6,7 +6,7 @@
 - [3 - How to add widgets to the dashboard?](#3---how-to-add-widgets-to-the-dashboard)
 - [4 - How to create a dashboard for each tracked page?](#4---how-to-create-a-dashboard-for-each-tracked-page)
 - [5 - Free tools descriptions](#5---free-tools-descriptions)
-- [6 - Matomo’s alternatives to Hotjar and the homemade tool](#6---Matomo’s alternatives to Hotjar and the homemade tool)
+- [6 - Matomo’s alternatives to Hotjar and home-made process indicators](#6---Matomo’s-alternatives-to-Hotjar-and-home-made-process-indicators)
 - [7 - Reference](#7---reference)
 
 ## 1 - Introduction 
@@ -83,7 +83,7 @@ It allows the user to **define objectives** based on:
 
 It provides a graph to visualize the objective fulfilled over time. 
 
-## 6 - Matomo’s alternatives to Hotjar and the homemade tool
+## 6 - Matomo’s alternatives to Hotjar and home-made process indicators
 
 ### 6.1 Home-made process alternatives
 
